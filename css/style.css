@@ -1,0 +1,98 @@
+body {
+    background: fff;
+}
+/*
+.container {
+    color: #fff;
+    margin: 0 auto;
+    width: 0 auto;
+}
+*/
+
+
+
+
+.header { 
+    background: black;
+    padding: 2px 0px 6px 120px; 
+    font-family: monospace;
+    width: 100%;
+    display: inline-flex;
+}
+.header p {
+    color: wheat;
+}
+
+
+#menu_title  {
+    text-align: center;
+    background: #fff;
+    padding: 40px 0 40px 0;
+    font-size: 24px;
+}
+#menu_title a {
+    text-decoration: none;
+    color: #180140;
+}
+#menu_title :hover {
+    color: wheat;
+}
+#menu {
+    padding: 0 0 10px 150px;
+}
+
+#menu a {
+    color: palevioletred;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 13px;
+    padding: 9px;
+}
+
+#menu a:hover {
+    color: wheat;
+}
+
+.site_link1 {
+}
+#menu2 .site_link1 {
+    display: inline-flex;
+}
+
+.site_link {
+    padding: 0px 0px 19px 0px;
+}
+
+.follow_us {
+    background: red; 
+    margin-bottom: 23px;
+    padding: 4px 4px 4px 4px;
+    color: white;
+}
+
+#menu2 a {
+    color: gray;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 13px;
+    padding:4px 4px 4px 9px;
+    margin: 9px; 
+}
+#menu2 a:hover {
+    color: black;
+}
+
+#menu2  {
+    background-color:cornsilk;
+    padding: 8px;
+} 
+
+.lifestyle {
+    color: white;
+    background: red;
+}
+
+.container2 {
+    padding-top: 23px;
+}
+
